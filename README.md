@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Wael Alhassan</h1>
-<h3 align="center">A passionate web developer introduces himself</h3>
+<h1 align="center">Hi 👋, I'm a Full-Stack Web Developer</h1>
+<h3 align="center">A passionate  full-stack web developer introduces himself</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelalhassan" alt="waelalhassan" /></a> </p> -->
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
