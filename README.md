@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm a Full-Stack Web Developer</h1>
 <h3 align="center">A passionate  full-stack web developer introduces himself</h3>
 
