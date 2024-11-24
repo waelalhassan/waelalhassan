@@ -172,6 +172,38 @@
         <br>Yarn
       </td>
     </tr>
+    <tr> 
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="40"
+          height="40" alt="Prisma" />
+        <br>Prisma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="40"
+          height="40" alt="Graphql" />
+        <br>Graphql
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40"
+          height="40" alt="Nextjs" />
+        <br>Nextjs
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="40"
+          height="40" alt="Jest" />
+        <br>Jest
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pug" width="40"
+          height="40" alt="Pug" />
+        <br>Pug
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40"
+          height="40" alt="Bash" />
+        <br>Bash
+      </td>
+    </tr>
   </table>
 </div>
 
